@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "aotuTrajectory", "aotuTrajectory\aotuTrajectory.pyproj", "{ED4F564B-160A-4DBE-A2D7-FE215759BBDA}"
 EndProject
@@ -18,6 +18,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8AD2B127-B702-456D-A5D0-E17888A3685A}
+		SolutionGuid = {C482FA1A-7F5A-4AC9-9210-8E6CEA6D4F35}
 	EndGlobalSection
 EndGlobal
